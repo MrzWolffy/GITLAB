@@ -33,5 +33,6 @@ void main()
 
       scanf("%d", &SearchID);
   }
-  printf("Bye Bye\n"); 
+  printf("Bye Bye\n");
+  printf("THIS IS NEW FUNCTION!!!!\n") 
 }
